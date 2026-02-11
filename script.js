@@ -196,7 +196,7 @@ window.addEventListener('scroll', () => {
 const footerText = document.querySelector('.footer p');
 if (footerText) {
     const currentYear = new Date().getFullYear();
-    footerText.textContent = `© ${currentYear} Your Name. All rights reserved.`;
+    footerText.textContent = `© ${currentYear} Kaushal Dahal. All rights reserved.`;
 }
 
 // ==================== 
